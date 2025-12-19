@@ -35,8 +35,7 @@ export default function Navbar() {
             <Link href="/" className={desktopLink}>Home</Link>
             <Link href="/about" className={desktopLink}>About</Link>
             <Link href="/services" className={desktopLink}>Services</Link>
-            <Link href="/blog" className={desktopLink}>Blog</Link>
-            <Link href="/contact" className={desktopLink}>Contact</Link>
+         
           </nav>
 
           {/* Mobile Toggle */}
@@ -63,12 +62,7 @@ export default function Navbar() {
             <Link href="/services" onClick={() => setOpen(false)} className={mobileLink}>
               Services
             </Link>
-            <Link href="/blog" onClick={() => setOpen(false)} className={mobileLink}>
-              Blog
-            </Link>
-            <Link href="/contact" onClick={() => setOpen(false)} className={mobileLink}>
-              Contact
-            </Link>
+           
           </nav>
         </div>
       )}

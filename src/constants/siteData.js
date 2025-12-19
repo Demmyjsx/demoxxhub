@@ -169,15 +169,15 @@ export const footerContent = {
     { label: "Home", href: "/" },
     { label: "About Us", href: "/about" },
     { label: "Services", href: "/services" },
-    { label: "Blog", href: "/blog" },
-    { label: "Contact", href: "/contact" },
+   
+
 
   ],
 
   cta: {
     text: "Grow Your Business and Build Your Website or Software With Us.",
     button: "Get a Quote",
-    href: "/contact",
+    href: "https://wa.me/2348103929078",
   },
 
   copyright:
