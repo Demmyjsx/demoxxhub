@@ -24,13 +24,13 @@ export default function Hero() {
           </p>
           <div className="flex justify-center lg:justify-start gap-4 flex-wrap">
             <a
-              href="#services"
+              href="services"
               className="px-6 py-3 bg-orange-500 text-white font-semibold rounded-lg shadow-lg hover:bg-orange-600 transition"
             >
               Explore Services
             </a>
             <a
-              href="#contact"
+              href="https://wa.me/2348103929078"
               className="px-6 py-3 border border-orange-500 text-orange-500 font-semibold rounded-lg hover:bg-orange-500 hover:text-white transition"
             >
               Request a Quote

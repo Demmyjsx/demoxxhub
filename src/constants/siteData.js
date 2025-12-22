@@ -160,9 +160,7 @@ export const homeContent = {
   ],
 };
 
-/* =========================
-   FOOTER CONTENT
-========================= */
+
 
 export const footerContent = {
   quickLinks: [

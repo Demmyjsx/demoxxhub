@@ -6,7 +6,7 @@ export const blogPosts = [
     date: "September 2, 2024",
     author: "admin",
     category: "Web Development",
-    image: "/blog/tech-home.jpg",
+    image: "/tech-home.jpg",
     excerpt: "In recent years, especially with the rise of remote work, technology has played a pivotal role in making our homes more comfortable...",
     content: `
       <p>In recent years, especially with the rise of remote work and the shift towards more home-based lifestyles, technology has played a pivotal role in making our homes more comfortable, productive, and enjoyable.</p>
@@ -73,7 +73,7 @@ export const blogPosts = [
   date: "September 12, 2024",
   author: "admin",
   category: "Business Management",
-  image: "/blog/incorporation-hero.jpg", 
+  image: "/incorporation-hero.jpg", 
   excerpt: "Incorporating a business is one of the smartest moves you can make. It provides a solid foundation for growth and shields your personal assets from business risks.",
   content: `
     <p class="mb-6">Incorporating a business is one of the smartest moves you can make as a business owner. Whether you’re just starting out or looking to expand, incorporation provides a solid foundation for growth and shields your personal assets from business risks. Beyond legal protection, it offers a host of benefits that can elevate your company and help it thrive in the long run.</p>
@@ -140,7 +140,7 @@ export const blogPosts = [
   date: "September 4, 2024",
   author: "admin",
   category: "IT Services",
-  image: "/blog/translation-hero.jpg", 
+  image: "/translation-hero.jpg", 
   excerpt: "In today’s globalized economy, effective communication across languages is essential. Discover how professional translation drives global success.",
   content: `
     <p class="mb-6">In today’s globalized economy, effective communication across languages and cultures is essential for businesses to thrive. At Demoxxhub, we understand the importance of precise and culturally sensitive communication, which is why our Translation Services are designed to help you convey your message accurately, no matter the language or context.</p>
