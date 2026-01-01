@@ -19,7 +19,7 @@ export default function ServiceCTA() {
           your business goals with tailored solutions designed to fit your needs.
         </p>
         <Link 
-          href="/contact"
+          href="https://wa.me/2348103929078"
           className="inline-block bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-10 rounded-full transition-all transform hover:scale-105 active:scale-95 shadow-lg shadow-orange-500/20"
         >
           Click Here for Quote

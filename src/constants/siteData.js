@@ -175,7 +175,7 @@ export const footerContent = {
   cta: {
     text: "Grow Your Business and Build Your Website or Software With Us.",
     button: "Get a Quote",
-    href: "https://wa.me/2348103929078",
+    href: "https://wa.me/234810392    9078",
   },
 
   copyright:
