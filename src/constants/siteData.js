@@ -179,5 +179,5 @@ export const footerContent = {
   },
 
   copyright:
-    "© 2024 All Rights Reserved. Design & Developed By Osdotech Solutions",
+    "© 2024 All Rights Reserved. Design & Developed By demmytech",
 };
