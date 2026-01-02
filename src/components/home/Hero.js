@@ -48,9 +48,9 @@ export default function Hero() {
           <Image
             src="/HeroImage.png"
             alt="Demoxxhub Hero Illustration"
-            width={500}
-            height={500}
-            className="w-80 md:w-96 lg:w-125 h-auto"
+            width={600}
+            height={600}
+            className="w-80 md:w-100 lg:w-135 h-auto"
           />
         </motion.div>
       </div>

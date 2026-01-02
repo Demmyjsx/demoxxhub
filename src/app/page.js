@@ -3,7 +3,7 @@ import ServicesGrid from "@/components/home/ServicesGrid";
 import WhyChooseUs from "@/components/home/WhyChooseUs";
 import Stats from "@/components/home/Stats";
 import Hero from "@/components/home/Hero";
-import BlogListing from "@/components/home/BlogListing"; // 1. Import your blog component
+import BlogListing from "@/components/home/BlogListing"; 
 
 export default function HomePage() {
   return (
@@ -11,7 +11,7 @@ export default function HomePage() {
       <Hero />
       <MissionVision />
       <ServicesGrid />
-        <BlogListing />
+      <BlogListing />
       <WhyChooseUs />
       <Stats />
       
