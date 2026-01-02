@@ -57,8 +57,8 @@ export default function Hero() {
 
       {/* Optional Background Shapes */}
       <div className="absolute top-0 left-0 w-full h-full -z-10 overflow-hidden">
-        <div className="bg-orange-100 dark:bg-orange-900 w-[600px] h-[600px] rounded-full absolute -top-40 -left-40 opacity-30 blur-3xl"></div>
-        <div className="bg-blue-100 dark:bg-blue-900 w-[500px] h-[500px] rounded-full absolute -bottom-40 -right-40 opacity-20 blur-3xl"></div>
+        <div className="bg-orange-100 dark:bg-orange-900 w-150 h-150 rounded-full absolute -top-40 -left-40 opacity-30 blur-3xl"></div>
+        <div className="bg-blue-100 dark:bg-blue-900 w-125 h-125 rounded-full absolute -bottom-40 -right-40 opacity-20 blur-3xl"></div>
       </div>
     </section>
   );
