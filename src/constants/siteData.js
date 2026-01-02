@@ -4,7 +4,7 @@ export const siteInfo = {
  
   description:
     "Demoxxhub is a dynamic and innovative Business Management and IT Consulting firm, dedicated to helping businesses navigate the complexities of digital transformation. Our mission is to empower companies with the tools and strategies they need to thrive in the ever-evolving digital landscape.",
-  address: "21 ADEPEJU STREET ABEOKUTA EXP RD Lagos OT 100001 NG",
+  address: "21 ADEPEJU STREET ABEOKUTA EXP RD Lagos ",
   phone: "+234 706 688 0537",
   email: "info@demoxxhub.com",
 };

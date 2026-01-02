@@ -78,9 +78,7 @@ export default function MissionVision() {
           whileInView={{ opacity: 1, y: 0 }}
           className="mt-16 text-center"
         >
-          <p className="text-gray-500 dark:text-gray-400 font-bold tracking-[0.2em] uppercase text-xs">
-            Demoxxhub • Empowering Through Technology
-          </p>
+         
         </motion.div>
       </div>
     </section>
