@@ -46,7 +46,7 @@ export default function Hero() {
           className="flex-1 flex justify-center lg:justify-end"
         >
           <Image
-            src="/HeroImage.jpg"
+            src="/HeroImage.png"
             alt="Demoxxhub Hero Illustration"
             width={500}
             height={500}
