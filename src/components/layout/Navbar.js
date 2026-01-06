@@ -22,7 +22,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/demmoxxx.png"
+              src="/demmoxxx.jpg"
               alt={`${siteInfo.name} Logo`}
               width={110}
               height={40}

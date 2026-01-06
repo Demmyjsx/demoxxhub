@@ -34,7 +34,7 @@ export default function AboutHero() {
           className="relative h-[450px] w-full rounded-b-full overflow-hidden shadow-2xl"
         >
           <Image 
-            src="/about.png" // Ensure this image is in your public folder
+            src="/about.jpg" // Ensure this image is in your public folder
             alt="Demoxxhub Team"
             fill
             className="object-cover"
