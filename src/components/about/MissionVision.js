@@ -15,7 +15,7 @@ export default function MissionVision() {
         >
           <h3 className="text-xl font-bold uppercase tracking-widest mb-4 opacity-80">Our Vision</h3>
           <p className="text-2xl md:text-3xl font-medium leading-snug">
-            &ldquo; at Demoxxhub To be the leading partner in driving digital innovation and transformation, empowering businesses globally.&rdquo;
+            &ldquo; To be the leading partner in driving digital innovation and transformation, empowering businesses globally.&rdquo;
           </p>
         </motion.div>
 

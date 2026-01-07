@@ -20,7 +20,7 @@ export default function Footer() {
             {/* Highly Visible Address */}
             <div className="border-l-2 border-blue-500 pl-4">
               <p className="text-lg font-extrabold text-white tracking-tight">
-                21 Adepeju St, Idi Mangoro
+               21 adepeju Street, Idi-Mangoro Ikeja Lagos
               </p>
             </div>
 
