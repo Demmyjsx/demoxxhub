@@ -3,7 +3,7 @@ import { footerContent, siteInfo } from "@/constants/siteData";
 
 export default function Footer() {
   return (
-    <footer className="bg-slate-900 text-gray-300">
+    <footer className="bg-slate-900 text-gray-300" id="contact">
       {/* Main Footer Content */}
       <div className="max-w-6xl mx-auto px-6 py-16 grid gap-10 md:grid-cols-3">
         
